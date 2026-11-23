@@ -16,7 +16,7 @@
 
 ## Sobre o Projeto
 
-O **Áurea Nails** foi projetado pela **Zekon** com foco total em **usabilidade pelo celular** para a equipe interna de um estúdio de Nail Design. A interface segue fielmente a identidade visual monocromática (**preto e branco**) de alto contraste, com navegação pensada para uso rápido com uma mão entre um atendimento e outro.
+O **Áurea Nails** foi projetado pela **Zykon** com foco total em **usabilidade pelo celular** para a equipe interna de um estúdio de Nail Design. A interface segue fielmente a identidade visual monocromática (**preto e branco**) de alto contraste, com navegação pensada para uso rápido com uma mão entre um atendimento e outro.
 
 > *Nota: O código-fonte de produção é mantido em repositório privado por ser um software sob medida para cliente. Este repositório apresenta a arquitetura, funcionalidades e telas reais da solução.*
 
@@ -68,5 +68,5 @@ O **Áurea Nails** foi projetado pela **Zekon** com foco total em **usabilidade 
 ---
 
 <div align="center">
-  <p>✦ Desenvolvido por <strong>Zekon</strong></p>
+  <p>✦ Desenvolvido por <strong>Zykon</strong></p>
 </div>
